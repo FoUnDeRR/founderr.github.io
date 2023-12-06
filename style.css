@@ -1,0 +1,41 @@
+.bg {
+    background-color: rgb(39, 39, 39);
+}
+
+.header {
+    color: #5865F2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 50px;
+    font-size: larger;
+    text-align: center;
+}
+
+.text1 {
+    color: white;
+    margin-left: 40px;
+    margin-top: 50px;
+    font-size: xx-large;
+}
+
+.contacts {
+    color: #5865F2;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.links {
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.projects {
+    margin-left: 20px;
+    margin-top: 5px;
+    color: white;
+}
